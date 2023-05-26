@@ -141,6 +141,7 @@ body {
 }
 
 .summary-content p {
+	font-size: 16px;
 	color: var(--dark-gray-blue);
 }
 
